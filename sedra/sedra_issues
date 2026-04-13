@@ -1,0 +1,27 @@
+600008010	Plumbing cost	Expenses
+60000801001	Plumbing Material	Expenses
+60000801002	Plumbing labor	Expenses
+
+
+600008010 → 600000901 Plumbing cost Expenses
+60000801001 → 6000090101 Plumbing Material Expenses
+60000801002 → 6000090102 Plumbing labor Expenses
+
+600000940
+600000941
+600000942
+Depreciation	6110	6110
+
+so all can be grouped under 6000009 Finishing
+
+
+is De-watering under Therminal??
+if no then the code for De-watering and it's sub-accounts needs to be changed
+
+60000033 -- 600000323	waterproof Vat cost
+60000034 -- 600000324	De-watering Vat cost
+
+into 
+
+
+611000 -- Purchase of Equipments got nothing to do with Depreciation then change the code to 60100019

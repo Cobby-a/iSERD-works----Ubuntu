@@ -1,0 +1,30 @@
+opera
+
+
+equipment depreciation
+Genral expenses
+
+
+Admin Cost
+Direct expenses ghs
+Direct Expenses $
+
+
+Project Engeneer salaries exp
+Project Engeneer work permit exp
+Project Engeneer work Air ticket Exp
+Project Engeneer Allawances
+
+151001	Depreciation Vehicles
+151002	Depreciation Form work
+151003	Depreciation Tower crane
+151004	Depreciation Scafold
+151005	Depreciation Props
+151006	Depreciation Lifting Machine
+151007	Depreciation concert bucket
+151008	Depreciation Generator
+151009	Depreciation empty Container
+151012	Depreciation Hoist
+151013	Depreciation concert tools
+151014	Depreciation Leveling Machine
+
