@@ -1,0 +1,31 @@
+static/src/js/profit_loss_report
+static/src/js/balance_sheet_report
+static/src/js/general_ledger_report.js
+static/src/js/trial_balance_report.js
+static/src/js/partner_aged_receivable_report.js
+static/src/js/partner_aged_payable_report.js
+static/src/js/partner_ledger_report.js
+
+
+
+controllers/profit_loss.py
+controllers/pdf_report_controller.py
+controllers/general_ledger.py
+controllers/trial_balance
+
+
+report/profit_loss_report.py
+report/balance_sheet_report.py
+report/trial_balance.py
+report/general_ledger.py
+
+
+general ledger report backend.xml
+trial balance report backend.xml
+balance sheet report backend.xml
+profit loss report backend
+
+
+report general ledger.xml
+report trial balance.xml
+report profit loss
