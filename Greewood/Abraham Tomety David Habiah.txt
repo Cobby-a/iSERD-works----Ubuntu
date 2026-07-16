@@ -1,0 +1,91 @@
+Abraham Tomety -
+David Habiah -
+Isaac Ziem Yaan-Tol
+John Burknor - 
+Korbla Adonoo - 
+Moses Dogbey
+Natalia Walter - 
+Nutifafa Nathalia Walter
+Quinicy Boateng - 
+Rebecca Agyiri-Mireku
+Seth Okine - 
+Stephen Assan
+
+
+you talk about the main dashboard--- the main screen
+talk about the chatter
+
+internal user is, public user is, 
+talk about the activity icon
+
+now talk about the modules -- the purchase module
+
+the menus -- based on your access rights
+talk about the search bar and all the views bar
+
+Product Configuration -- talked everything about the product configuration and all that's inside and all
+
+the buttons from the top button
+
+enter a product and walk them through
+
+notebooks or tabs
+
+create an invoice on the sales order even when the order hasn't gone through
+
+delivered quantities -- inventory must come in.. inventory muct clear the good or product from the system -- before you can crreate and invoice
+
+standard -- follow the gs1 nomencleture
+
+
+taxes you apply when selling
+tax inclusive -- give it the final price and inside that he sees the taxes in there
+
+15+2.5+2.5 -- the standard vat price
+
+to streamline thibgs it will be good to put your products under categories
+
+reference (internal referenpos_preparation_display/web?display_id=1ce) or skus stock keeping unit
+
+per standard every product have a barcode
+if it is gs1 nomenclature specifiefd
+
+set some notes or instruction for a specific product
+
+then to unit of measurement.... base unit of measurement and another unit of measurement referencing the base
+
+
+guve the flow of purchase
+
+your purchase start from request for quotation
+send it to the vendor -- email --
+negotiate on the pricing
+and if there's a need to update then you update
+and now you confirm the order
+and then now you send it for the customer to acknowledge the PO
+
+
+OTD - KPIs that would be calculated based on the transactions you make
+
+then try and create a new RFQ
+a system generated sequence
+
+agreement -- blanket order
+
+that over this specific or days this is how mcuhyou woll sell thsi product to me
+
+hands on the alternatives option
+
+send the RFQ for quote confirmation and all..
+
+
+
+configure a product fully
+
+create 2 purchase orders -- process it to completion
+try and process an expense
+attach your receipt and approve
+
+some of the client invoice them 
+becauseof the nature of producted
+
